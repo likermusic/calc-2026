@@ -1,7 +1,7 @@
 export let data = "Some text";
 
 export function print() {
-  console.log("PRINT");
+  //...
 }
 
 // module.exports = print;
