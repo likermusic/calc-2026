@@ -7,8 +7,8 @@
 
 ## Ссылки на проект
 
-- Проект доступен по [ссылке](https://github.io)
-- [Ссылка](https://github.io) на Github-репозиторий:
+- Проект доступен по [ссылке](https://likermusic.github.io/calc-2026/)
+- [Ссылка](https://github.com/likermusic/calc-2026) на Github-репозиторий
 
 <!--
 > Реплика 1
