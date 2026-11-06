@@ -37,7 +37,22 @@
 
 ## Структура проекта
 
-...
+calc-2026/
+├── .husky/ # Git-хуки (Husky)
+├── src/ # Исходный код приложения
+│ ├── app.js # Основная логика калькулятора
+│ ├── image.png # Изображение/иконка
+│ ├── index.html # HTML-шаблон
+│ ├── style.css # Стили
+│ └── test.js # Тесты
+├── dist/ # Собранный (production) код (генерируется Webpack'ом)
+├── .gitignore # Исключения для Git
+├── .prettierrc # Конфигурация Prettier
+├── eslint.config.js # Конфигурация ESLint
+├── package-lock.json # Lock-файл зависимостей npm
+├── package.json # Зависимости и скрипты проекта
+├── webpack.config.js # Конфигурация сборщика Webpack
+└── README.md # Документация проекта
 
 ### `src`
 
